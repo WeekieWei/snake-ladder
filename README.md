@@ -1,4 +1,4 @@
-# snake-ladder
+# Snakes & Ladders Chess
 Classic Console Based Snake Board Chess Clone
 
 ## Running Environment
